@@ -12,9 +12,14 @@ Our contributions are as follow:
 <!-- ## Algorithms -->
 The algorithms of each path is listed below.
 
-|Path| Weighted                                       | Unweighted                   
+<!-- |Path| Weighted                                       | Unweighted                   
 |:----------:|:-----------------------------------------------:| :---------------------:|
 | [kGrassComparison](./kGrassComparision/)    | kGrass         |  kGrass (Unweighted)    
 | [SSumMComparison](./SSumMComparision/)     | SSumM        | SSumM (Unweighted)       
-| [MoSSo-LossyComparison](./MoSSo-LossyComparison)     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)    
+| [MoSSo-LossyComparison](./MoSSo-LossyComparison)     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)     -->
+|Path| Weighted                                       | Unweighted                   
+|:----------:|:-----------------------------------------------:| :---------------------:|
+| kGrassComparison   | kGrass         |  kGrass (Unweighted)    
+| SSumMComparison    | SSumM        | SSumM (Unweighted)       
+| MoSSo-LossyComparison     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)    
 
