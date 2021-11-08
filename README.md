@@ -11,7 +11,7 @@ Our contributions are as follow:
 * *Improvement of the State-of-the-art Algorithm*: improving a state-of-the-art graph-summarizaion algorithm for the weighted model by exploiting the observation.
 
 ## Appendix
-The online-appendix is available at [Here](https://anonymous.4open.science/r/PAKDD22-D880/PAKDD22_Appendix.pdf)
+The online-appendix is available at [Here](https://anonymous.4open.science/api/repo/PAKDD22-D880/file/PAKDD22_Appendix.pdf)
 
 
 ## Code
