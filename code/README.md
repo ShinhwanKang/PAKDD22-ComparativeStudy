@@ -1,4 +1,4 @@
-# Are Edge Weights in Summary Graphs Useful? A Comparative Study of Graph Summarization Models
+# Are Edge Weights in Summary Graphs Useful? - A Comparative Study
 
 <!-- We conduct a systematic comparison between a weighted graph summarization model and an unweighted graph summarization model.
 Our contributions are as follow:
@@ -12,9 +12,9 @@ Our contributions are as follow:
 <!-- ## Algorithms -->
 The algorithms of each path is listed below.
 
-|           | Weighted                                       | Unweighted                   
-| ----------|:-----------------------------------------------:| :---------------------:|
-| kGrassComparison    | kGrass         |  kGrass (Unweighted)    
-| SSumMComparison     | SSumM        | SSumM (Unweighted)       
-| MoSSo-LossyComparison     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)    
+|Path| Weighted                                       | Unweighted                   
+|:----------:|:-----------------------------------------------:| :---------------------:|
+| [kGrassComparison](./kGrassComparision/)    | kGrass         |  kGrass (Unweighted)    
+| [SSumMComparison](./SSumMComparision/)     | SSumM        | SSumM (Unweighted)       
+| [MoSSo-LossyComparison](./MoSSo-LossyComparison)     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)    
 
