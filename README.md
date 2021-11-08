@@ -12,7 +12,7 @@ Our contributions are as follow:
 
 
 ## Code
-The algorithms used in the paper is available at ```./code/``` and ```./Homepage/*```.
+The algorithms used in the paper is available at ```./code/``` or ```./Homepage/*```.
 
 <!-- ## Algorithms
 The algorithms of each path is listed below.
