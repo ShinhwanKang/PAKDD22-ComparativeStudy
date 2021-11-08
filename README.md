@@ -12,16 +12,16 @@ Our contributions are as follow:
 
 
 ## Code
-The source code used in the paper is available at [Here](./code/) and [Here](./Home.html).
+The algorithms used in the paper is available at [Here](./code/) and [Here](./Home.html).
 
-## Algorithms
+<!-- ## Algorithms
 The algorithms of each path is listed below.
 
 |           | Weighted                                       | Unweighted                   
 | ----------|:-----------------------------------------------:| :---------------------:|
 | kGrassComparison    | kGrass         |  kGrass (Unweighted)    
 | SSumMComparison     | SSumM        | SSumM (Unweighted)       
-| MoSSo-LossyComparison     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)    
+| MoSSo-LossyComparison     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)     -->
 
 
 ## Datasets

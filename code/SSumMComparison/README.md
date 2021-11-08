@@ -1,4 +1,4 @@
-#SSumM, SSumM(Unweighted)
+# SSumM, SSumM(Unweighted)
 
 ## Requirements
 
