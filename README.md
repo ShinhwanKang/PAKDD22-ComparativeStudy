@@ -60,7 +60,7 @@ kGrassComparison assumes that the input graph *G = (**V**, **E**)* is undirected
 Thus, the format of an input file is as follows. 
 Each line represents a single edge. 
 Each edge {u, v} ∈ **E** joins two distinct nodes u != v ∈ **V**, separated by a tab. 
-Each node v ∈ **V is assigned to a unique integer id. 
+Each node v ∈ **V** is assigned to a unique integer id. 
 The format of the example file is given below.
 
 ### Example Input Format
@@ -208,11 +208,9 @@ The format of the example file is given below.
 
 The output file contains information about subnodes (nodes in *G*) belonging to each
 supernode s ∈ **S** of the output **weighted** summary graph *G_we = (**S**, **P**, ω)* and information about each
-superedge p ∈ **P**. The first integer on each line following the line <Subnode of each
-supernode> represents the id of the supernode, and the following integers separated by
+superedge p ∈ **P**. The first integer on each line following the line "\<Subnode of each supernode\>" represents the id of the supernode, and the following integers separated by
 tabs represent the ids of the subnodes belonging to that supernode.
-Each line following  the line <Superedge
-info> represents a single superedge. The three integers separated
+Each line following  the line "\<Superedge info\>" represents a single superedge. The three integers separated
 by tabs represent the id of the source supernode, the id of the destination supernode, and
 the weight of the superedge (i.e., the number of subedges belonging to the superedge).
 
@@ -251,11 +249,11 @@ the weight of the superedge (i.e., the number of subedges belonging to the super
 
 The output file contains information about subnodes (nodes in *G*) belonging to each
 supernode s ∈ **S** of the output **unweighted** summary graph *G_uwe = (**S**, **P**)* and information about each
-superedge p ∈ **P**. The first integer on each line following the line <Subnode of each
-supernode> represents the id of the supernode, and the following integers separated by
+superedge p ∈ **P**. The first integer on each line following the line  "\<Subnode of each
+supernode\>" represents the id of the supernode, and the following integers separated by
 tabs represent the ids of the subnodes belonging to that supernode.
-Each line following  the line <Superedge
-info> represents a single superedge. The two integers separated
+Each line following  the line  "\<Superedge
+info\>" represents a single superedge. The two integers separated
 by tabs represent the id of the source supernode and the id of the destination supernode.
 
 * Output
@@ -332,11 +330,11 @@ The format of the example file is given below.
 
 The output file contains information about subnodes (nodes in *G*) belonging to each
 supernode s ∈ **S** of the output **weighted** summary graph *G_we = (**S**, **P**, ω)* and information about each
-superedge p ∈ **P**. The first integer on each line following the line <Subnode of each
-supernode> represents the id of the supernode, and the following integers separated by
+superedge p ∈ **P**. The first integer on each line following the line  "\<Subnode of each
+supernode\>" represents the id of the supernode, and the following integers separated by
 tabs represent the ids of the subnodes belonging to that supernode.
-Each line following  the line <Superedge
-info> represents a single superedge. The three integers separated
+Each line following  the line "\<Superedge
+info\>" represents a single superedge. The three integers separated
 by tabs represent the id of the source supernode, the id of the destination supernode, and
 the weight of the superedge (i.e., the number of subedges belonging to the superedge).
 
@@ -380,11 +378,11 @@ the weight of the superedge (i.e., the number of subedges belonging to the super
 
 The output file contains information about subnodes (nodes in *G*) belonging to each
 supernode s ∈ **S** of the output **unweighted** summary graph *G_uwe = (**S**, **P**)* and information about each
-superedge p ∈ **P**. The first integer on each line following the line <Subnode of each
-supernode> represents the id of the supernode, and the following integers separated by
+superedge p ∈ **P**. The first integer on each line following the line  "\<Subnode of each
+supernode\>" represents the id of the supernode, and the following integers separated by
 tabs represent the ids of the subnodes belonging to that supernode.
-Each line following  the line <Superedge
-info> represents a single superedge. The two integers separated
+Each line following  the line "\<Superedge
+info\>" represents a single superedge. The two integers separated
 by tabs represent the id of the source supernode and the id of the destination supernode.
 
 * Output
