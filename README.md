@@ -11,11 +11,17 @@ Our contributions are as follow:
 * *Improvement of the State-of-the-art Algorithm*: improving a state-of-the-art graph-summarizaion algorithm for the weighted model by exploiting the observation.
 
 ## Appendix
-The online-appendix is available at [Here](https://anonymous.4open.science/api/repo/PAKDD22-D880/file/PAKDD22_Appendix.pdf)
+The online-appendix is available at [Here](https://anonymous.4open.science/r/PAKDD22-D880/PAKDD22_Appendix.pdf)
 
 
 ## Code
-The algorithms used in the paper is available at ```./code/```.
+The algorithms of each path is listed below.
+
+|Path| Weighted                                       | Unweighted                   
+|:----------:|:-----------------------------------------------:| :---------------------:|
+| kGrassComparison   | kGrass         |  kGrass (Unweighted)    
+| SSumMComparison    | SSumM        | SSumM (Unweighted)       
+| MoSSo-LossyComparison     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)  
 
 <!-- ## Algorithms
 The algorithms of each path is listed below.
@@ -40,17 +46,7 @@ The algorithms of each path is listed below.
 |DBPedia (DP)|18,268,991|126,890,209|Hyperlinks|[KONECT](http://konect.cc/networks/dbpedia-link/)|[LINK](http://konect.cc/files/download.tsv.dbpedia-link.tar.bz2)|
 |WebLarge (WL)|18,483,186|261,787,258|Hyperlinks|[LAW](https://law.di.unimi.it/webdata/uk-2002/)|[LINK](http://data.law.di.unimi.it/webdata/uk-2002/uk-2002.graph)|
 
-
----
-
-# Code Implementations
-The algorithms of each path is listed below.
-
-|Path| Weighted                                       | Unweighted                   
-|:----------:|:-----------------------------------------------:| :---------------------:|
-| kGrassComparison   | kGrass         |  kGrass (Unweighted)    
-| SSumMComparison    | SSumM        | SSumM (Unweighted)       
-| MoSSo-LossyComparison     | MoSSo-Lossy         | MoSSo-Lossy (Unweighted)   
+ 
 ---
 # kGrass, kGrass(Unweighted)
 ## Requirements
